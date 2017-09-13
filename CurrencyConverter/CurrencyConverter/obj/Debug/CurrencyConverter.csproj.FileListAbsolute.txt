@@ -1,0 +1,5 @@
+E:\Ghousia\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll
+E:\Ghousia\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.pdb
+E:\Ghousia\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+E:\Ghousia\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+E:\Ghousia\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
